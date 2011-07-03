@@ -29,4 +29,4 @@ location and the name of the file that will be created. Once you have chosen
 this, the file will be converted.
 
 ##### PicCrypt.exe Original MD5 Checksum:
-91427633661c6dbae350295401d62503
+088a32e3ba1b81d9e98e77b2a7ec164d
